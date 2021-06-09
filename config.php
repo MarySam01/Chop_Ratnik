@@ -1,7 +1,6 @@
 <?php
 $server = 'localhost';
-$user='dizent';
-$password='Danil328!';
-$database='apteka';
+$user='marysam';
+$password='192021mnl';
+$database='chop_ratnik';
 ?>
-
