@@ -124,6 +124,24 @@ h1, h2, h3, h4, h5, h6 {
     transition: background .3s linear, color .3s linear;
 }
 .btn:hover {
-    background-color: #fff;
+    background-color: white;
     color: black;
+}
+
+
+
+
+.section {
+    padding: 80px 0;
+    background: url("../images/fon.jpg") center
+    no-repeat;
+    background-size: cover;
+}
+.section__header {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 40px;
+    color: white;
+    text-align: center;
+    
 }
